@@ -103,7 +103,9 @@ technical skills (AWS, Azure, Spark) compared to Data Analysts and Data Scientis
     plt.show()
 
 ####
-![Salary Distribution of Data Jobs in the US](3_Project\Images\Salary_Analysis.png) *Box plot visualizing the salary distributions for the top 6 data job titles.*
+![Salary Distribution of Data Jobs in the US](3_Project\Images\Salary_Analysis.png) 
+
+*Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 - There is a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600K, indicating the high value placed on advanced data skills and experience in the industry.
 
@@ -130,6 +132,7 @@ technical skills (AWS, Azure, Spark) compared to Data Analysts and Data Scientis
 In-demand skills for data analysts in the US:
 
 ![The Highest Paid & Most In-Demand Skills For Data Analysts in the US](3_Project\Images\Highest_Paid_and_Most_Demand_Skills_for_Data_Analysts_in_the_US.png)
+
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
